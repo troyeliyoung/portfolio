@@ -127,8 +127,8 @@ a:hover, #header.nav-solid nav a:hover {
     background: url("../images/banner-images/banner-image-1.jpg") no-repeat;
     background-size: 385px 475px;
     position: static;
-    left-padding: 150px;
-    top-padding:100px;
+    left-padding: 50%;
+    top-padding:10%;
 }
 
 
