@@ -95,7 +95,7 @@ a:hover, #header.nav-solid nav a:hover {
     display:block;
     width:30px;
     height:5px;
-    margin-top:300px;
+    margin-top:30px;
 }
 
 .text-center .section-heading h2:after {
@@ -174,7 +174,7 @@ body {
 
 #banner h2 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
-    font-size:18px;
+    font-size:48px;
     font-weight:300;
     color:#111;
 }
