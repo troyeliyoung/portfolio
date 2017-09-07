@@ -124,11 +124,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/banner-image-1.jpg") no-repeat;
-    background-size: 385px 475px;
-    position: static;
-    left-padding: 50%;
-    top-padding:10%;
+    background: url("../images/banner-images/banner-image-1.jpg") no-repeat right top;
+    background-size: 40%;
 }
 
 
